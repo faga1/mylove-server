@@ -1,1 +1,1 @@
-*.js filter=git-crypt diff=git-crypt
+server.js filter=git-crypt diff=git-crypt
