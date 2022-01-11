@@ -7,7 +7,5 @@ module.exports = function(app){
     app.post('/addEvent',(req,res)=>{
         dbserver.addEvent(req.body,res)
     })
-    app.get('/sts',(req,res)=>{
-        getSts(res)
-    })
+    
 }
