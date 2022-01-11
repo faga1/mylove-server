@@ -1,2 +1,2 @@
-./dao/sts.js filter=git-crypt diff=git-crypt
+/dao/sts.js filter=git-crypt diff=git-crypt
 *.key filter=git-crypt diff=git-crypt   
